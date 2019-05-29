@@ -1,2 +1,3 @@
 first line for m1
-second line m2 
+second line m2
+chnages in master 
